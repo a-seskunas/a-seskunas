@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Seskunas</h1>
+<h1 align="center">Hello, I'm Adam Seskunas</h1>
 <h3 align="center">Linux Administrator and Python developer.</h3>
 
 - 🔭 I’m currently working on [wmaps-backend](https://github.com/a-seskunas/wmaps-backend)
