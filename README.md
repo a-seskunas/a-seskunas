@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [wmaps-backend](https://github.com/a-seskunas/wmaps-backend)
 
-- 💬 Ask me about **cartopy, grub files and which way the wind is blowing.**
+- 💬 Ask me about **cartopy, grib files and which way the wind is blowing.**
 
 - 📫 How to reach me **adamseskunas@gmail.com**
 
